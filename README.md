@@ -28,7 +28,7 @@ Ce projet s’inscrit dans le développement d’un site de vente de dattes tuni
 
 ## 📁 Structure des fichiers
 
-PanierClientDattes/ ├── Main.java ├── Produit.java ├── Panier.java └── Client.java
+GestionProduits/ ├── Main.java ├── Produit.java ├── Panier.java └── Client.java
 
 ## 🚀 Lancer l'application
 
